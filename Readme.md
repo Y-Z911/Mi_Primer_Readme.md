@@ -4,3 +4,5 @@
 
 Para ejecutar este Hola Mundo tendras que usar:
 ```abre el archivo index.html```
+
+y el enter?
